@@ -1,0 +1,7 @@
+#sensitive token
+terraform.tfvars
+.env
+
+# cache local
+.terraform/        
+.terraform.lock.hcl
